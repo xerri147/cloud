@@ -14,45 +14,6 @@
       "zipAsset": null
     },
     {
-      "id": 1130654,
-      "name": "Documents",
-      "folder": true,
-      "path": [
-        "Roms"
-      ],
-      "size": null,
-      "extension": null,
-      "modified": "2026-10-02 19:25:13",
-      "description": null,
-      "zipAsset": null
-    },
-    {
-      "id": 1130655,
-      "name": "Images",
-      "folder": true,
-      "path": [
-        "Roms"
-      ],
-      "size": null,
-      "extension": null,
-      "modified": "2026-10-02 19:25:21",
-      "description": null,
-      "zipAsset": null
-    },
-    {
-      "id": 1130657,
-      "name": "Music",
-      "folder": true,
-      "path": [
-        "Roms"
-      ],
-      "size": null,
-      "extension": null,
-      "modified": "2026-10-02 19:25:16",
-      "description": null,
-      "zipAsset": null
-    },
-    {
       "id": "acct:Music1",
       "name": "Music1",
       "folder": true,
@@ -73,21 +34,8 @@
       "modified": null,
       "description": null,
       "zipAsset": null
-    },
-    {
-      "id": 1130656,
-      "name": "Videos",
-      "folder": true,
-      "path": [
-        "Roms"
-      ],
-      "size": null,
-      "extension": null,
-      "modified": "2026-10-02 19:25:24",
-      "description": null,
-      "zipAsset": null
     }
   ],
   "rootZip": null,
-  "generated": "2026-10-03T18:27:43.307Z"
+  "generated": "2026-10-04T00:10:18.620Z"
 }
